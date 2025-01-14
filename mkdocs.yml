@@ -1,20 +1,12 @@
-site_name: S2 Computing Science
+site_name: BGE Computing Science
 
 nav:
     - Home: 'index.md'
-    - Term 1 - Web Design & Development:
+    - S3 Computing Science:
         #- Term-1/index.md
-        - Turing:
-            - Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
-        - Hopper:
-            - Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
-    - Term 2 - Game Design Principles:
-      #- Term-2/index.md
-      - Turing:
-          - Maze Escape: 'Term-2/01-Turing/02-Coin-Catcher.md'
-      - Hopper: 
-          - Space Invaders: 'SDD/04-Software-Implementation.md'
-
+      - Databases and SQL:
+            - Databases and SQL Assessment: 'S3/Databases-and-SQL/Databases-and-SQL-Assessment.md'
+    
 markdown_extensions:
   - admonition
   - pymdownx.details
