@@ -3,28 +3,28 @@ site_name: BGE Computing Science
 nav:
     - Home: 'index.md'
     - S3 Computing Science:
-        #- Term-1/index.md
+      - index.md
       - Databases and SQL:
-            - Databases and SQL Assessment: 'S3/Databases-and-SQL/Databases-and-SQL-Assessment.md'
-    
+          - Databases and SQL Assessment: 'S3/Databases-and-SQL/Databases-and-SQL-Assessment.md'
+          
 markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - attr_list
-  - md_in_html
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - attr_list
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - def_list
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+    - attr_list
+    - md_in_html    
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true
 theme:
   name: material
   font:
@@ -43,3 +43,27 @@ theme:
        name: Light mode
       primary: blue
       accent: deep orange
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+  features:
+    - content.code.copy
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.indexes 
+    - navigation.path
+    #- navigation.footer
+    - navigation.tabs
+    
+
