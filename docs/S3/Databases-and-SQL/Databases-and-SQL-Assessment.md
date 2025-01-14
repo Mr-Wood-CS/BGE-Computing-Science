@@ -76,6 +76,8 @@ Write SQL queries to answer the following:
 
 3. List the titles and authors of all books priced between £5 and £10 from low to high. (5 marks)
 
+4. Sort all books by their price in descending order and display the title, price, and stock quantity. (5 marks)
+
 
 ### Task 3: Analyse Data (20 marks)
 

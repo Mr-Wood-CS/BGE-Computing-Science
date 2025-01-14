@@ -3,7 +3,7 @@ nav:
     - Home: 'index.md'
     - S3 Computing Science:
       - Databases and SQL:
-        - Explanation: 'S3/Databases-and-SQL/index.md'
+        - Explanation: './S3/Databases-and-SQL/index.md'
         - Databases and SQL Assessment: 'S3/Databases-and-SQL/Databases-and-SQL-Assessment.md'
 
 markdown_extensions:
