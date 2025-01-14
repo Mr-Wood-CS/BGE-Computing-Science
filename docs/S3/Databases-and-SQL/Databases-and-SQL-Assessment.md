@@ -52,7 +52,9 @@ You are working for a local library that needs a database to keep track of its b
 
    - Add at least **10 records** of books, ensuring data is realistic and varied.
 
-## Part B: SQL Retrieve Data Query Questions (60 marks)
+## Part B: SQL Query Questions (60 marks)
+
+### Task 1: Retrieve Data (20 marks)
 
 Write SQL queries to answer the following:
 
@@ -62,23 +64,31 @@ Write SQL queries to answer the following:
 
 3. Show the title, genre, and price of all books that cost more than £10. (5 marks)
 
-4. Display all books in alphabetical order by their title. (5 marks)
+4. Find all books written by "George Orwell". (5 marks)
 
-5. Find all books written by "George Orwell". (5 marks)
+### Task 2: Sorting Data (20 marks)
 
-6. Retrieve the titles and genres of books published before 1950. (5 marks)
+Write SQL queries to answer the following:
 
-7. Display the titles of all books that cost exactly £8.49. (5 marks)
+1. Display all books in alphabetical order by their title. (5 marks)
 
-8. List the titles and prices of books with a stock quantity greater than or equal to 10. (5 marks)
+2. Retrieve the details of all books in the "Fiction" genre, sorted by their publication year (oldest to newest). (5 marks)
 
-9. Find all books in the "Fantasy" genre written by "J.R.R. Tolkien". (5 marks)
+3. List the titles and authors of all books priced between £5 and £10 from low to high. (5 marks)
 
-10. Find all books with a stock quantity of less than 10. (5 marks)
 
-11. List the titles and authors of all books priced between £5 and £10. (5 marks)
+### Task 3: Analyse Data (20 marks)
 
-12. Retrieve the details of all books in the "Fiction" genre, sorted by their publication year (oldest to newest). (5 marks)
+Write SQL queries to answer the following:
+
+1. Retrieve the titles and genres of books published before 1950. (5 marks)
+
+2. Display the titles of all books that cost exactly £8.49. (5 marks)
+
+3. List the titles and prices of books with a stock quantity greater than or equal to 10. (5 marks)
+
+4. Find all books with a stock quantity of less than 10. (5 marks)
+
 
 ## Mark Scheme
 
@@ -94,10 +104,10 @@ Write SQL queries to answer the following:
 ### Part B: SQL Query Questions (60 marks)
 
 | Task                | Marks | Criteria                                                                 |
-|---------------------|-------|-------------------------------------------------------------------------|
-| Retrieve Data       | 60    | Queries return the correct results and use appropriate syntax.           |
-
-
+|---------------------|-------|--------------------------------------------------------------------------|
+| Retrieve Data       | 20    | Queries return the correct results and use appropriate syntax.           |
+| Sorting Data        | 20    | Queries successfully order data as required.                             | 
+| Analyse Data        | 20    | Queries accurately calculate or identify data based on requirements.     |
 
 ## Appendix
 
