@@ -2,7 +2,7 @@ site_name: BGE Computing Science
 nav:
     - Home: 'index.md'
     - S3 Computing Science:
-      - Explanation: 'index.md'
+      - Explanation: 'S3/Databases-and-SQL/index.md'
       - Databases and SQL:
             - Databases and SQL Assessment: 'S3/Databases-and-SQL/Databases-and-SQL-Assessment.md'
 
