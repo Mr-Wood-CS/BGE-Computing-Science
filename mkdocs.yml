@@ -1,11 +1,13 @@
 site_name: BGE Computing Science
 nav:
     - Home: 'index.md'
-    - S3 Computing Science:
-      - Databases and SQL:
-        - Explanation: './S3/Databases-and-SQL/index.md'
-        - Databases and SQL Assessment: 'S3/Databases-and-SQL/Databases-and-SQL-Assessment.md'
-
+    - Databases and SQL:
+      - Databases-and-SQL/index.md
+      - Bronze Award:
+        - SELECT-FROM-WHERE: 'Databases-and-SQL/Bronze-Award/Select-From-Where.md'
+      - Gold Award: 
+        - Assessment: 'Databases-and-SQL/Gold-Award/Databases-and-SQL-Assessment.md'
+        
 markdown_extensions:
     - admonition
     - pymdownx.details
