@@ -1,4 +1,4 @@
-# Welcome to S2 Computing Science
+# Welcome to BGE Computing Science
 
 <figure markdown="span">
   ![Computing Pathway](./Images/Computing-Pathway.png){ width="800" }

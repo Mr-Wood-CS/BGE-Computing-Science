@@ -4,7 +4,12 @@ nav:
     - Databases and SQL:
       - Databases-and-SQL/index.md
       - Bronze Award:
-        - SELECT-FROM-WHERE: 'Databases-and-SQL/Bronze-Award/Select-From-Where.md'
+        - 02- Select - From:
+          - Explanation: 'Databases-and-SQL/Bronze-Award/1.0-Select-From.md'
+          - Cheat Sheet: 'Databases-and-SQL/Bronze-Award/1.4-Cheat-Sheet.md'
+        - 03 - The Where Condition:
+          - Explanation: 'Databases-and-SQL/Bronze-Award/2.0-Where.md'
+          - Cheat Sheet: 'Databases-and-SQL/Bronze-Award/2.4-Cheat-Sheet.md'
       - Gold Award: 
         - Assessment: 'Databases-and-SQL/Gold-Award/Databases-and-SQL-Assessment.md'
         - SQL Cheat Sheet: 'Databases-and-SQL/Gold-Award/SQL-Cheat-Sheet.md'
