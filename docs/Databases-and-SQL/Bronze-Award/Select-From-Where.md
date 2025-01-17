@@ -29,7 +29,7 @@
 
 ??? tip "Cheat Sheet"
 
-    ```SQL title = "Display all data from a table", linenums="1"
+    ```SQL linenums="1" title = "Display all data from a table"
     Displays all data from table
     SELECT * 
     FROM table_name
