@@ -7,7 +7,7 @@ nav:
         - SELECT-FROM-WHERE: 'Databases-and-SQL/Bronze-Award/Select-From-Where.md'
       - Gold Award: 
         - Assessment: 'Databases-and-SQL/Gold-Award/Databases-and-SQL-Assessment.md'
-        - Assessment: 'Databases-and-SQL/Gold-Award/SQl-Cheat-Sheet.md'
+        - SQL Cheat Sheet: 'Databases-and-SQL/Gold-Award/SQL-Cheat-Sheet.md'
         
 markdown_extensions:
     - admonition
