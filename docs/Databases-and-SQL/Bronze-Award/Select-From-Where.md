@@ -36,6 +36,7 @@
 7. Display the first name and surname of all the sports stars whose sport is football.
 
 ??? tip "Cheat Sheet"
+
   ```SQL linenums="1"
   Displays all data from table
   SELECT * FROM table_name
