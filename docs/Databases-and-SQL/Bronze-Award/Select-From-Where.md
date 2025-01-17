@@ -37,23 +37,23 @@
 
 ??? tip "Cheat Sheet"
 
-  ```SQL linenums="1"
-  Displays all data from table
-  SELECT * FROM table_name
-  ```
-
-  ```SQL linenums="1"
-  Displays specific columns from table
-  SELECT column_name FROM table_name
-  ```
-
-  ```SQL linenums="1"
-  Displays two columns from table
-  SELECT column_name, column_name FROM table_name
-  ```
-
-  ```SQL linenums="1"
-  Displays specific data. Text uses ‘ ‘ for example start sign ‘Capricorn’ This would display all records where this condition was true. 
-  SELECT * FROM table_name WHERE column_name = ‘’
-  ```
+    ```SQL linenums="1"
+    Displays all data from table
+    SELECT * FROM table_name
+    ```
+  
+    ```SQL linenums="1"
+    Displays specific columns from table
+    SELECT column_name FROM table_name
+    ```
+  
+    ```SQL linenums="1"
+    Displays two columns from table
+    SELECT column_name, column_name FROM table_name
+    ```
+  
+    ```SQL linenums="1"
+    Displays specific data. Text uses ‘ ‘ for example start sign ‘Capricorn’ This would display all records where this condition was true. 
+    SELECT * FROM table_name WHERE column_name = ‘’
+    ```
 
